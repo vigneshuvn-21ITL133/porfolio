@@ -14,7 +14,7 @@ export default function Home() {
           <span className="text-gray-400">vigneshu</span>
         </div>
         <nav className="flex-1 flex justify-center space-x-6 text-gray-300">
-          <a href="#about" className="hover:text-white text-xl">Home</a>
+          <a href="#about" className="hover:text-white text-xl">About</a>
           <a href="#tech" className="hover:text-white text-xl">Tech</a>
           <a href="#projects" className="hover:text-white text-xl">Projects</a>
         </nav>
