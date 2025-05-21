@@ -1,7 +1,7 @@
 'use client'; // only if you're using app directory
 
 import Image from 'next/image';
-import vigneshu from './Image/vigneshu.jpg'; // Adjust path if needed
+import vigneshu from './Image/vigneshu1.jpg'; // Adjust path if needed
 import { ImageConfigContext } from 'next/dist/shared/lib/image-config-context.shared-runtime';
 
 export default function Home() {
